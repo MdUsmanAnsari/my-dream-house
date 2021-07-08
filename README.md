@@ -1,2 +1,2 @@
 # Dream-House
-live at : https://mdusmanansari.github.io/My-Dream-House/
+live at : https://mdusmanansari.github.io/my-dream-house/
